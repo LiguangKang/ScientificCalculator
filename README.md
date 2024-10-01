@@ -12,63 +12,63 @@ The core algorithms in the calculator.js script are:
 ## 2ndFunc Mode OFF
 
 ### Basic four mixed operation
-![screenshoot of the basic four mixed operation](.img/basic_four_mixed_operations(2nd_func_off).png)
+![screenshoot of the basic four mixed operation](./img/basic_four_mixed_operations(2nd_func_off).png)
 
 ### Reciprocal operation
-![screenshoot of the reciprocal operation](.img/reciprocal(2nd_func_off).png)
+![screenshoot of the reciprocal operation](./img/reciprocal(2nd_func_off).png)
 
 ### Absolute value operation
-![screenshoot of the absolute value operation](.img/absolute_value(2nd_func_off).png)
+![screenshoot of the absolute value operation](./img/absolute_value(2nd_func_off).png)
 
 ### Square root operation
-![screenshoot of the square root operation](.img/square_root(2nd_func_off).png)
+![screenshoot of the square root operation](./img/square_root(2nd_func_off).png)
 
 ### Square operation
 ![screenshoot of the square operation](.img/square(2nd_func_off).png)
 
 ### Scientific notation
-![screenshoot of the scientific notation](.img/scientific_notation(2nd_func_off).png)
+![screenshoot of the scientific notation](./img/scientific_notation(2nd_func_off).png)
 
 ### PI constant
-![screenshoot of the PI constant](.img/pi_constant(2nd_func_off).png)
+![screenshoot of the PI constant](./img/pi_constant(2nd_func_off).png)
 
 ### Natural constant e
-![screenshoot of the natural constant e](.img/natural_constant(2nd_func_off).png)
+![screenshoot of the natural constant e](./img/natural_constant(2nd_func_off).png)
 
 ### Modulo operation
-![screenshoot of the modulo operation](.img/natural_constant(2nd_func_off).png)
+![screenshoot of the modulo operation](./img/natural_constant(2nd_func_off).png)
 
 ### Factorial operation
-![screenshoot of the factorial operation](.img/factorial(2nd_func_off).png)
+![screenshoot of the factorial operation](./img/factorial(2nd_func_off).png)
 
 ### Exponentiation operation with base x and exponent y
-![screenshoot of the Exponentiation x & y](.img/exponentiation(2nd_func_off).png)
+![screenshoot of the Exponentiation x & y](./img/exponentiation(2nd_func_off).png)
 
 ### Power of base 10 operation
-![screenshoot of the power of base 10](.img/power_of_ten(2nd_func_off).png)
+![screenshoot of the power of base 10](./img/power_of_ten(2nd_func_off).png)
 
 ### Common logrithm operation
-![screenshoot of the common logrithm operation](.img/common_logrithm(2nd_func_off).png)
+![screenshoot of the common logrithm operation](./img/common_logrithm(2nd_func_off).png)
 
 ### Natural logrithm operation
-![screenshoot of the natural logrithm operation](.img/natural_logrithm(2nd_func_off).png)
+![screenshoot of the natural logrithm operation](./img/natural_logrithm(2nd_func_off).png)
 
 ## 2ndFunc Mode ON
 
 ### Cube operation
-![screenshoot of the cube operation](.img/cube_operation(2nd_func_on).png)
+![screenshoot of the cube operation](./img/cube_operation(2nd_func_on).png)
 
 ### Cube root operation
-![screenshoot of the cube root operation](.img/cube_root(2nd_func_on).png)
+![screenshoot of the cube root operation](./img/cube_root(2nd_func_on).png)
 
 ### Nth(Any number) root operation
-![screenshoot of the nth root operation](.img/nth_root.png)
+![screenshoot of the nth root operation](./img/nth_root.png)
 
 ### Exponentiation operation with base 2
-![screenshoot of the exponentiation with base 2](.img/exponentiation_base_2(2nd_func_on).png)
+![screenshoot of the exponentiation with base 2](./img/exponentiation_base_2(2nd_func_on).png)
 
 ### Logrithmic operation with base N(any number)
-![screenshoot of the logrithmic opeartion with any number n](.img/logrithmic_operation_base_n(2nd_func_on).png)
+![screenshoot of the logrithmic opeartion with any number n](./img/logrithmic_operation_base_n(2nd_func_on).png)
 
 ### Exponentiation operation with base natural constant e
-![screenshoot of the exponentiation operation with e](.img/exponentiation_base_e(2nd_func_on).png)
+![screenshoot of the exponentiation operation with e](./img/exponentiation_base_e(2nd_func_on).png)
